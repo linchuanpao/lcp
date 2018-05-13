@@ -7,7 +7,7 @@ public class Test1 {
     }
     //dev分支添加内容
     public void test2(){
-
+        //linchuanpao添加内容
     }
     //lcp分支添加内容
     public void test3(){
