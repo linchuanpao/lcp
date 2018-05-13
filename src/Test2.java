@@ -5,4 +5,8 @@ public class Test2 {
     public void test1(){
 
     }
+    //linchuanpao添加内容
+    public void test3(){
+
+    }
 }
