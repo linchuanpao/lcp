@@ -5,4 +5,8 @@ public class Test2 {
     public void test1(){
 
     }
+    //lcp分支添加内容
+    public void test2(){
+
+    }
 }

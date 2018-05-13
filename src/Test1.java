@@ -9,4 +9,8 @@ public class Test1 {
     public void test2(){
 
     }
+    //lcp分支添加内容
+    public void test3(){
+
+    }
 }
